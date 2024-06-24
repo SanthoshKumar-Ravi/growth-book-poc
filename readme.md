@@ -7,7 +7,7 @@
 
 ``` growth-book-poc ```
 
-### Run docker
+### Run self hosted growthbook
 
 ``` docker-compose -f src/main/docker/docker-compose.yaml up -d ```
 
