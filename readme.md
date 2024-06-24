@@ -1,7 +1,7 @@
 ## Steps to run the application:
 ### Clone the repository
 
-``` git clone https://github.com/SanthoshKumar-Ravi/bankingapplication.git ```
+``` git clone https://github.com/SanthoshKumar-Ravi/growth-book-poc.git ```
 
 ### Go the folder
 
